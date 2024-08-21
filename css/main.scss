@@ -7,3 +7,12 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+@media only screen and (max-width: 414px ) {
+    .container{
+        max-width: 366px;
+        width: 100%;
+        margin: 0 auto;
+        box-sizing: border-box;
+    }
+    
+}
